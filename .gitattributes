@@ -1,2 +1,1 @@
-setup.sh text eol=lf
-build.sh text eol=lf
+* text=auto eol=lf
